@@ -46,12 +46,12 @@ At this point, my recommendation to anyone comprehending this is for all of us w
 
 And I say that working on such topics is much more viable and worthy than the frenzied efforts by various hyper-exploitative conglomerates aimed at launching a humanoid settlement (an Elysium) on the-dark-side-of-the-moon to protect themselves against:
 
-    + cosmic radiation and solar radiation burning through the ozone holes
-    + biological and digital super viruses
-    + nuclear, chemical and cluster munitions proliferations
-    + concealed small arms
-    + non-concealed automatic rifles
-    + generic humanoid stupidity [(insert picture of Elon Musk wearing MAGA cap eating cheetos and chugging coca-cola}](https://github.com/serene-solidarity/m-a-c/commit/ba83ead6f8e5201b7d3e04eb231e79c767ce73f3)
+  + cosmic radiation and solar radiation burning through the ozone holes  
+  + biological and digital super viruses
+  + nuclear, chemical and cluster munitions proliferations
+  + concealed small arms
+  + non-concealed automatic rifles
+  + generic humanoid stupidity [(insert picture of Elon Musk wearing MAGA cap eating cheetos and chugging coca-cola}](https://github.com/serene-solidarity/m-a-c/commit/ba83ead6f8e5201b7d3e04eb231e79c767ce73f3)
 
 By the way, solutions to countering weaponized cars or trucks or miniature drones starts with training a high-speed detector system, like the ones used in tennis or baseball for tracking the ball, to track the "weaponized vector" via simplistic fourier-fast-transforms. Then run the system at femto or picosecond precision to counter the *abstract vehicle* that runs at micro or milli second intervals. Most vehicles are slow enough to be impacted in the second level, linear time interval.
 
@@ -92,7 +92,11 @@ FFT for cybernetics:
   
   
   pps:
-  *To err is to human. 
+  
+  *To err is to human.
+  
   To humanoid is to, 
+  
   Be perfectly out-of-order.
+  
   To verb words, is to English.*
