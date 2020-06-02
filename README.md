@@ -93,10 +93,7 @@ FFT for cybernetics:
   
   pps:
   
-  *To err is to human.
-  
-  To humanoid is to, 
-  
-  Be perfectly out-of-order.
-  
-  To verb words, is to English.*
+  *To err is to human.*
+  *To humanoid is to,* 
+  *Be perfectly out-of-order.*
+  *To verb words, is to English.*
